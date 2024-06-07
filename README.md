@@ -9,13 +9,13 @@ Questions:
 Define Software Engineering: 
 What is software engineering, and how does it differ from traditional programming?
 
-        It is the systematic application of engineering principles, methods and tools to the development and maintainance 
+It is the systematic application of engineering principles, methods and tools to the development and maintainance 
     of high quality softwar systems.
 
-        It differs from traditioal programming in that, software engineering  uses structured methodologies such as Waterfall and Agile
+It differs from traditioal programming in that, software engineering  uses structured methodologies such as Waterfall and Agile
     to ensure a systematic approach to development (Documentation,formal testing and integration) while traditional pprogramming
     often follows an ad-hoc approach without a formalized process where individual programmers write and test code independently.
-        Softwafe engineering has comprehensive documentation which includes design specification, requirements documents, user manuals
+Softwafe engineering has comprehensive documentation which includes design specification, requirements documents, user manuals
     and maintainance guides while traditional programming has its documentation minimal where it focuses on the code itself.
 
 Software Development Life Cycle (SDLC):
@@ -31,6 +31,7 @@ PHASES:
 
 Agile vs. Waterfall Models:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
 MODELS
     Agile uses an iterative and incremental approach focused on flexibility, collaboration and responding to change and is used for large and more complex projects.
     Waterfall follows a sequential and linear approach with distinct phases which should be completed one after another and is suitable for short-term projects.
@@ -42,7 +43,7 @@ DIFERENCES
 Requirements Engineering:
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 
-    Requirement engineering is a phase in software development that involves the systematic identification, documentation and management of the requirements for software system to ensure it meets the users needs.
+Requirement engineering is a phase in software development that involves the systematic identification, documentation and management of the requirements for software system to ensure it meets the users needs.
 
 PROCESS
     Requirement elicitation- Involves gathering information ofwhat is needed from the software through interviews, surveys and questionnaries.
@@ -50,6 +51,7 @@ PROCESS
     Requirement specification- To document the requirements in a clear and detailed manner.
     Requirement validation- To ensure the requirements are accurate and feasible through reviews, inspection and prototyping.
     Requirement management- To handle changes to the requirements throughout the project lifecycle.
+
 IMPORTANCE
     Helps ensure a clear understanding of what the software will achieve.
     Assist in scope management where it prevents additional features to be added without corresponding increases in time, budget or resources.
@@ -96,7 +98,7 @@ Testing is crucial in that;
 Version Control Systems:
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 
-    Version control system is a software tool that for tracking changes of source code overtime and coordinating work between team members.
+Version control system is a software tool that for tracking changes of source code overtime and coordinating work between team members.
 
 IMPORTANCE
     Allows developers to track what changes were made, who made them and why thus maintainance of history and tracking of them.
@@ -139,7 +141,7 @@ CHALLENGES
 Software Maintenance:
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 
-    Software maintenance is the modification of a software after it has been deliveredto the customers to correct faults, improve performance and adapt the the product to a changed environment.
+ Software maintenance is the modification of a software after it has been deliveredto the customers to correct faults, improve performance and adapt the the product to a changed environment.
 
 TYPES OF MAINTAINANCE ACTIVITIES
     Corrective Maintenance - Fixes bugs and errors found after a software is deployed.
@@ -163,7 +165,7 @@ ETHICAL ISSUES
     They need to ensure that the algorithm and AI systems are free from bias and do not discriminate against any individuals.
     The need to ensure that the software systems are secure and do not pose risks to users .
     They must provide users with control over their data and ensure that users understand how their data will be used.
-    
+
 HOW THEY ENSURE THEY ADHERE TO THE EHICAL STANDARDS
     Software engineers should regularly review and incorporate professional codes of ethics such as ACM in their daily practices.
     They should participate in ongoing ethical training and foster a culture of ethical awareness within their organization.
