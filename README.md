@@ -170,7 +170,7 @@ HOW THEY ENSURE THEY ADHERE TO THE EHICAL STANDARDS
     They should participate in ongoing ethical training and foster a culture of ethical awareness within their organization.
     They must communicate clearly with users about data usage, privacy policies, and potential risks associated with their software.
     They should conduct regular ehical reviews and  audits of their projects to identify and address ethical concerns.
-    Adopting security best practices, such as regular audits and encryption, is essential for protecting user data.
+    Adopting security best practices, such as regular audits and encryption, is essential for protecting user data at all times.
     Establishing mechanisms for reporting unethical practices, such as anonymous reporting systems, helps maintain integrity and accounability. 
 
 Submission Guidelines:
