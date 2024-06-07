@@ -165,7 +165,7 @@ ETHICAL ISSUES
     The need to ensure that the software systems are secure and do not pose risks to users .
     They must provide users with control over their data and ensure that users understand how their data will be used.
 
-HOW THEY ENSURE THEY ADHERE TO THE EHICAL STANDARDS
+HOW THEY ENSURE THEY ADHERE TO THE ETHICAL STANDARDS
     Software engineers should regularly review and incorporate professional codes of ethics such as ACM in their daily practices.
     They should participate in ongoing ethical training and foster a culture of ethical awareness within their organization.
     They must communicate clearly with users about data usage, privacy policies, and potential risks associated with their software.
