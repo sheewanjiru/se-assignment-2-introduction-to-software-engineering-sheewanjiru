@@ -107,7 +107,7 @@ IMPORTANCE
     It helps provide a safety net for storing allversions of the project.
 
 EXAMPLES 
-    GIT
+     GIT
         Distributed version control.
         Allows easy creation, management, and merging of branches.
         Operations for git are very fast since they are performed locally.
@@ -115,7 +115,6 @@ EXAMPLES
     SUBVERSION(SVN)
         Centralised version control which is asingle central repository that users interact with.
         Allows users to lock their files, preventing others from editting them without consent.
-
     MERCURIAL 
         Allows every developer to have a complete copy of the repository like git.
         Designed for performance, especially  for large repositories.
